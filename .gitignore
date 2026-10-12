@@ -1,0 +1,6 @@
+*.jpg
+.venv/
+__pycache__/
+*.pth
+*.pyc
+butterfly_dataset/
