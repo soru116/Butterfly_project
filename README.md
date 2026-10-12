@@ -7,6 +7,8 @@
 ![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black)
 
 ---
+### 蝴蝶雜交種辨識，雜交種與非雜交種的舉例
+<img width="1915" height="1079" alt="image" src="https://github.com/user-attachments/assets/d4d7c54c-e609-45be-8cac-4da5409176e9" />
 
 ## 成果
 
